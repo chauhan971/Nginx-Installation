@@ -11,6 +11,7 @@ sudo apt nginx
 ````
 <h2> Find the default website Root </h2>
 <p> The default website root Ubantu is  <b>/var/www/html</b> </p>
+
 ``
 cd /var/www/html
 ``
