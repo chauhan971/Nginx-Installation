@@ -16,6 +16,12 @@ sudo apt nginx
 cd /var/www/html
 ``
 <p>
-  After moving to the website root try ` ls  ` command to check for the .html file present in it
+  After moving to the website root try " ls " command to check for the index.html file present in it
   If you donot have index.html file no worry just create a file file </p>
+  
+ <h2> Creating Index.html </h2>
+ ``
+ 
+ sudo nano index.html
+ ``
 
