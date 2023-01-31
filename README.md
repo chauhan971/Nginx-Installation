@@ -29,7 +29,7 @@ cd /var/www/html
  <p> Write the html code to the file as per per your need how you want your page to look like</p>
  
  ``
- <!DOCTYPE html>
+ #<!DOCTYPE html>
  <html>
  <body>
  
@@ -38,7 +38,7 @@ cd /var/www/html
  <p>Hello World!</p>
 
  </body>
- </html>
+ </html>#
  ``
  
  <h2> Localhost </h2>
