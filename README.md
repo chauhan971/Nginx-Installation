@@ -8,7 +8,6 @@ Installation command for Nignx
 ````
 sudo apt update
 sudo apt nginx
-
 ````
 <h3> Find the default website Root </h3>
-<p> The default website root Ubantu is /var/www/html </p>
+<p> The default website root Ubantu is  <b>/var/www/html</b> </p>
