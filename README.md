@@ -28,16 +28,7 @@ cd /var/www/html
  <h2> Html Code </h2>
  <p> Write the html code to the file as per per your need how you want your page to look like</p>
  
- <p><!DOCTYPE html>
- <html>
- <body>
- 
- <h1>My website is live on NGINX!</h1>
+ ![image](https://user-images.githubusercontent.com/67625230/215736250-1873ae6c-f044-4ce3-9187-62eed029dbd9.png)
 
- <p>Hello World!</p>
-
- </body>
- </html></p>
- 
  <h2> Localhost </h2>
 
