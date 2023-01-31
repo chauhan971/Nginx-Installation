@@ -31,4 +31,5 @@ cd /var/www/html
  ![image](https://user-images.githubusercontent.com/67625230/215736250-1873ae6c-f044-4ce3-9187-62eed029dbd9.png)
 
  <h2> Localhost </h2>
+ <p>open localhost on your browser to check if the site is hosted or not if all the steps are followed then eveything will work fine</p>
 
