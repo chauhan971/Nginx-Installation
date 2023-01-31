@@ -24,4 +24,21 @@ cd /var/www/html
  ``
  sudo nano index.html
  ``
+ <h2> Html Code </h2>
+ <p> Write the html code to the file as per per your need how you want your page to look like</p>
+ 
+ `
+ <!DOCTYPE html>
+ <html>
+ <body>
+ 
+ <h1>My website is live on NGINX!</h1>
+
+ <p>Hello World!</p>
+
+ </body>
+ </html>
+ `
+ 
+ <h2> Localhost </h2>
 
