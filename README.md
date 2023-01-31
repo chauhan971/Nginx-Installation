@@ -24,10 +24,11 @@ cd /var/www/html
  ``
  sudo nano index.html
  ``
+ 
  <h2> Html Code </h2>
  <p> Write the html code to the file as per per your need how you want your page to look like</p>
  
- `
+ ``
  <!DOCTYPE html>
  <html>
  <body>
@@ -38,7 +39,7 @@ cd /var/www/html
 
  </body>
  </html>
- `
+ ``
  
  <h2> Localhost </h2>
 
