@@ -21,7 +21,6 @@ cd /var/www/html
   
  <h2> Creating Index.html </h2>
  ``
- 
  sudo nano index.html
  ``
 
