@@ -20,6 +20,7 @@ cd /var/www/html
   If you donot have index.html file no worry just create a file file </p>
   
  <h2> Creating Index.html </h2>
+ 
  ``
  sudo nano index.html
  ``
