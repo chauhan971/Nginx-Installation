@@ -15,5 +15,7 @@ sudo apt nginx
 ``
 cd /var/www/html
 ``
-
+<p>
+  After moving to the website root try ` ls  ` command to check for the .html file present in it
+  If you donot have index.html file no worry just create a file file </p>
 
